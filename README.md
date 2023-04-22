@@ -7,21 +7,21 @@ My 3 organizations are:
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/gccunha015-upm">
+        <a href="https://github.com/orgs/gccunha015-upm/repositories">
           <img src="https://avatars.githubusercontent.com/u/111988821" 
             alt="gccunha015-upm"
             width="100" />
         </a>
       </th>
       <th>
-        <a href="https://github.com/gccunha015-42sp">
+        <a href="https://github.com/orgs/gccunha015-42sp/repositories">
           <img src="https://avatars.githubusercontent.com/u/111981828" 
             alt="gccunha015-42sp"
             width="100" />
         </a>
       </th>
       <th>
-        <a href="https://github.com/gccunha015-dio">
+        <a href="https://github.com/orgs/gccunha015-dio/repositories">
           <img src="https://avatars.githubusercontent.com/u/111986987" 
             alt="gccunha015-dio"
             width="100" />
