@@ -33,7 +33,6 @@ My 3 organizations are:
     <tr>
       <td>
         <p>Universidade Presbiteriana Mackenzie</p>
-        <div display="inline-block">
       </td>
       <td>
         <p>42 São Paulo</p>
