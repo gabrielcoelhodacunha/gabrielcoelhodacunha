@@ -32,14 +32,14 @@ My 3 organizations are:
   <tbody>
     <tr>
       <td>
-        <p>My Universidade Presbiteriana Mackenzie projects</p>
+        <p>Universidade Presbiteriana Mackenzie</p>
         <div display="inline-block">
       </td>
       <td>
-        <p>My 42 São Paulo projects</p>
+        <p>42 São Paulo</p>
       </td>
       <td>
-        <p>My Digital Innovation One projects</p>
+        <p>Digital Innovation One</p>
       </td>
     </tr>
   </tbody>
