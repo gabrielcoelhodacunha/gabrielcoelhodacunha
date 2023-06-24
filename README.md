@@ -1,9 +1,18 @@
+Hello!
+
+I'm currently learning:
+
+<p align="center">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64790e2fc4ec366ad5b6c375?variant=dark" alt="roadmap.sh"/></a>
+</p>
+
+
 As I have GitHub organizations to arrange my code repositories when it comes to which education institution it's related, this profile is bare on repositories.
 The repositories I keep in my main profile are implementations from ideas, my own or inspired from elsewhere.
 
 My 3 organizations are:
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>
